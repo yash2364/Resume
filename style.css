@@ -21,10 +21,12 @@ header {
     padding-bottom: 20px;
     border-bottom: 1px solid #ccc;
     background-color: #b3e5fc;  /* Light blue background for header */
+    color: #004d40; /* Dark teal for header text */
 }
 
 header h1 {
     margin: 0;
+    color: #00796b; /* Teal for header title */
 }
 
 header p {
@@ -40,6 +42,7 @@ section {
 section h2 {
     border-bottom: 2px solid #333;
     padding-bottom: 5px;
+    color: #00796b; /* Teal for section titles */
 }
 
 section ul {
@@ -52,10 +55,21 @@ section ul li {
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
+    color: #01579b; /* Dark blue for list item text */
 }
 
 #projects p {
     background: #e1f5fe;  /* Light blue background for paragraphs */
     padding: 10px;
     border-radius: 5px;
+    color: #01579b; /* Dark blue for paragraph text */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #b3e5fc; /* Light blue background for footer */
+    color: #004d40; /* Dark teal for footer text */
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
 }
