@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f7f7f7;  /* Light gray background */
     color: #333;
 }
 
@@ -12,7 +12,7 @@ body {
     margin: auto;
     overflow: hidden;
     padding: 20px;
-    background: #fff;
+    background: #ffffff;  /* White background */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -47,14 +47,14 @@ section ul {
 }
 
 section ul li {
-    background: #e4e4e4;
+    background: #f0f0f0;  /* Lighter gray */
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
 }
 
 #projects p {
-    background: #e4e4e4;
+    background: #f0f0f0;  /* Lighter gray */
     padding: 10px;
     border-radius: 5px;
 }
