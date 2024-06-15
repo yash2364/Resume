@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7;  /* Light gray background */
+    background-color: #e0f7fa;  /* Light blue background */
     color: #333;
 }
 
@@ -20,6 +20,7 @@ header {
     text-align: center;
     padding-bottom: 20px;
     border-bottom: 1px solid #ccc;
+    background-color: #b3e5fc;  /* Light blue background for header */
 }
 
 header h1 {
@@ -47,14 +48,14 @@ section ul {
 }
 
 section ul li {
-    background: #f0f0f0;  /* Lighter gray */
+    background: #e1f5fe;  /* Light blue background for list items */
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
 }
 
 #projects p {
-    background: #f0f0f0;  /* Lighter gray */
+    background: #e1f5fe;  /* Light blue background for paragraphs */
     padding: 10px;
     border-radius: 5px;
 }
